@@ -1,0 +1,10 @@
+C:\workspace\VS\capture\AutoCapture\AutoCapture\bin\Debug\AutoCapture.exe.config
+C:\workspace\VS\capture\AutoCapture\AutoCapture\bin\Debug\AutoCapture.exe
+C:\workspace\VS\capture\AutoCapture\AutoCapture\bin\Debug\AutoCapture.pdb
+C:\workspace\VS\capture\AutoCapture\AutoCapture\obj\Debug\AutoCapture.csprojAssemblyReference.cache
+C:\workspace\VS\capture\AutoCapture\AutoCapture\obj\Debug\AutoCapture.AutoCapture.resources
+C:\workspace\VS\capture\AutoCapture\AutoCapture\obj\Debug\AutoCapture.Properties.Resources.resources
+C:\workspace\VS\capture\AutoCapture\AutoCapture\obj\Debug\AutoCapture.csproj.GenerateResource.cache
+C:\workspace\VS\capture\AutoCapture\AutoCapture\obj\Debug\AutoCapture.csproj.CoreCompileInputs.cache
+C:\workspace\VS\capture\AutoCapture\AutoCapture\obj\Debug\AutoCapture.exe
+C:\workspace\VS\capture\AutoCapture\AutoCapture\obj\Debug\AutoCapture.pdb
